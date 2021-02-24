@@ -26,6 +26,7 @@
     <module>cloudalibaba-customer-order83</module>
     <module>cloudalibaba-customer-order84</module>
     <module>cloudalibaba-nacos-config3377</module>
+      <module>cloudalibaba-sentinel-service8401</module>
   </modules>
 
   <!-- 统一管理jar包版本 -->
